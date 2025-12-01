@@ -1,2 +1,9 @@
-# pizza-bill-generator
-A Java based console application that generates customized pizza bills with options for pizza type, slice count, toppings, extra cheese, and takeaway. The project applies core OOP principles such as interfaces, inheritance, and enums, making it a concise and practical example of structured object oriented design.
+# Pizza Bill Generator 🍕  
+A console-based Java app to calculate pizza bills with toppings and take-away charges.  
+
+### Features
+- Ordinary or Deluxe pizza  
+- Veg / Non-Veg options  
+- Extra toppings: Meat, Vegetables, Cheese  
+- Take-away charges  
+- Auto-generated bill  
